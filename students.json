@@ -1,0 +1,42 @@
+{
+    "22ug1-0041": {
+        "name": "Dhananjaya Yatigammana",
+        "major": "Information and Communication Engineering",
+        "batch": "2026A",
+        "total_attendance": 7,
+        "standing": "G",
+        "year": 3,
+        "last_attendance_time": "2024-11-30 10:54:34",
+        "image": "Images/22ug1-0041.png.jpg"
+    },
+    "22ug1-0582": {
+        "name": "Vishwa Gamage",
+        "major": "Telecommunication Engineering",
+        "batch": "2026A",
+        "total_attendance": 9,
+        "standing": "N",
+        "year": 3,
+        "last_attendance_time": "2025-01-21 19:55:06",
+        "image": "Images/22ug1-0582.png.jpg"
+    },
+    "22ug1-0363": {
+        "name": "Ama Kaweesha",
+        "major": "Accounting and Finance",
+        "batch": "2026A",
+        "total_attendance": 11,
+        "standing": "G",
+        "year": 3,
+        "last_attendance_time": "2025-01-21 19:55:35",
+        "image": "C:\\Users\\malee\\OneDrive\\Desktop\\Face Recognition Attendence System\\Files(1)\\Code\\22ug1-0363.png"
+    },
+    "22ug1-0490": {
+        "name": "Maleesha Chandrasekara",
+        "major": "Information and Communication Engineering",
+        "batch": "2026A",
+        "total_attendance": 9,
+        "standing": "G",
+        "year": 3,
+        "last_attendance_time": "2024-11-30 10:54:34",
+        "image": "C:\\Users\\malee\\OneDrive\\Desktop\\Face Recognition Attendence System\\Files(1)\\Output Images\\Maleesha.jpg"
+    }
+}
